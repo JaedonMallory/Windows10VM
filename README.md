@@ -43,6 +43,9 @@ Make sure everything is shown as you want it to be. This is the last step before
 <br />
 It will take a few minutes to finish installing Windows 10. Once it is done, click through the installer while following the instructions. <br/>
 <img src="https://i.imgur.com/YNsVupa.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
+<br />
+That's it! You just installed your first, and hopefully not last, Virtual Machine on VirtualBox! <br/>
+<img src="https://i.imgur.com/z0rMMCl.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 </p>
 
 <!--
