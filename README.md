@@ -7,12 +7,12 @@ This project consists of a simple tutorial for setting up a Windows 10 Virtual M
 
 <h2>Utilities Used</h2>
 
-- <b>VirtualBox 7.0</b> 
+- <b>VirtualBox 7.0 (https://www.virtualbox.org/wiki/Downloads)</b> 
 - <b>Windows 10 ISO</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
