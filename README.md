@@ -17,20 +17,20 @@ This project consists of a simple tutorial for setting up a Windows 10 Virtual M
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once you have downloaded the Windows 10 ISO file and VirtualBox, Click New in VirtualBox.: <br/>
+<img src="https://imgur.com/IhLub4X" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
