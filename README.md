@@ -1,16 +1,14 @@
-<h1>JWipe - Disk Sanitization</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>VirtualBox - Windows 10 Virtual Machine</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project consists of a simple tutorial for setting up a Windows 10 Virtual Machine. It walks the user through each step of setting up a virtual machine on their desktop through VirtualBox. Virtual machines are extremely useful and can be set up very quickly. A Windows 10 Virtual Machine can be used by Linux or MacOS users that otherwise would not have access to a Windows environment.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>VirtualBox 7.0</b> 
+- <b>Windows 10 ISO</b>
 
 <h2>Environments Used </h2>
 
