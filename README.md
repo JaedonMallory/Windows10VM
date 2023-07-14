@@ -1,14 +1,14 @@
 <h1>VirtualBox - Windows 10 Virtual Machine</h1>
 
 <h2>Description</h2>
-This project consists of a simple tutorial for setting up a Windows 10 Virtual Machine. It walks the user through each step of setting up a virtual machine on their desktop through VirtualBox. Virtual machines are extremely useful and can be set up very quickly. A Windows 10 Virtual Machine can be used by Linux or MacOS users that otherwise would not have access to a Windows environment.
+This project consists of a simple tutorial for setting up a Windows 10 Virtual Machine. It walks the user through each step of setting up a virtual machine on their desktop through VirtualBox. Virtual machines are extremely useful and can be set up very quickly. A Windows 10 Virtual Machine can be used by Linux or MacOS users that otherwise would not have access to a Windows environment. In this tutorial, it will be simulated as a non-Windows operating system, as the Microsoft website only lets you download the Windows 10 ISO file on another operating system. A tutorial on downloading the Windows 10 ISO file on a Windows machine will be provided in another repository (future link).
 <br />
 
 
 <h2>Utilities Used</h2>
 
-- <b>VirtualBox 7.0 (https://www.virtualbox.org/wiki/Downloads)</b> 
-- <b>Windows 10 ISO</b>
+- <b>VirtualBox (https://www.virtualbox.org/wiki/Downloads)</b> 
+- <b>Windows 10 ISO (https://www.microsoft.com/en-us/software-download/windows10ISO)</b>
 
 <h2>Environments Used </h2>
 
