@@ -33,16 +33,16 @@ Choose how much RAM you will allocate to the virtual machine. Microsoft states t
 <img src="https://i.imgur.com/4oCQQBe.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+This step is similar to the previous step. Choose the amount of storage your virtual machine will have access to. Microsoft states that a 64x version of Windows 10 needs a minimum of 20 GB of storage.  <br/>
+<img src="https://i.imgur.com/7W5aHCU.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Make sure everything is shown as you want it to be. This is the last step before creating the virtual machine.  <br/>
+<img src="https://i.imgur.com/OUoAQng.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+It will take a few minutes to finish installing Windows 10. Once it is done, click through the installer while following the instructions. <br/>
+<img src="https://i.imgur.com/YNsVupa.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 </p>
 
 <!--
