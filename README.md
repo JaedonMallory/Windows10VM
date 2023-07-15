@@ -17,34 +17,34 @@ This project consists of a simple tutorial for setting up a Windows 10 Virtual M
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Once you have downloaded the Windows 10 ISO file and VirtualBox, Click New in VirtualBox. This prompt will ask for you to name your new Virtual Machine and ask for the ISO file you want to use.: <br/>
+1. Once you have downloaded the Windows 10 ISO file and VirtualBox, Click New in VirtualBox. This prompt will ask for you to name your new Virtual Machine and ask for the ISO file you want to use.: <br/>
 <img src="https://i.imgur.com/IhLub4X.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
-Select the Windows 10 Version you want. In this case, we are going to use Windows 10 Home:  <br/>
+2. Select the Windows 10 Version you want. In this case, we are going to use Windows 10 Home:  <br/>
 <img src="https://i.imgur.com/puARyM4.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
-Click the checkbox to install Guest Additions for better performance. Make sure all other checks are green to proceed. <br/>
+3. Click the checkbox to install Guest Additions for better performance. Make sure all other checks are green to proceed. <br/>
 <img src="https://i.imgur.com/euwqOKp.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
-Choose how much RAM you will allocate to the virtual machine. Microsoft states that a 64x version of Windows 10 needs a minimum of 2 GB or 2048 MB. <br/>
+4. Choose how much RAM you will allocate to the virtual machine. Microsoft states that a 64x version of Windows 10 needs a minimum of 2 GB or 2048 MB. <br/>
 <img src="https://i.imgur.com/4oCQQBe.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
-This step is similar to the previous step. Choose the amount of storage your virtual machine will have access to. Microsoft states that a 64x version of Windows 10 needs a minimum of 20 GB of storage.  <br/>
+5. This step is similar to the previous step. Choose the amount of storage your virtual machine will have access to. Microsoft states that a 64x version of Windows 10 needs a minimum of 20 GB of storage.  <br/>
 <img src="https://i.imgur.com/7W5aHCU.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
-Make sure everything is shown as you want it to be. This is the last step before creating the virtual machine.  <br/>
+6. Make sure everything is shown as you want it to be. This is the last step before creating the virtual machine.  <br/>
 <img src="https://i.imgur.com/OUoAQng.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
 <br />
-It will take a few minutes to finish installing Windows 10. Once it is done, click through the installer while following the instructions. <br/>
+7. It will take a few minutes to finish installing Windows 10. Once it is done, click through the installer while following the instructions. <br/>
 <img src="https://i.imgur.com/YNsVupa.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 <br />
-That's it! You just installed your first, and hopefully not last, Virtual Machine on VirtualBox! <br/>
+8. That's it! You just installed your first, and hopefully not last, Virtual Machine on VirtualBox! <br/>
 <img src="https://i.imgur.com/z0rMMCl.png" height="80%" width="80%" alt="Windows10VirtualMachine"/>
 </p>
 
